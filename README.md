@@ -3,7 +3,9 @@
 This project is based on the concept of generating electricity bill structures of an individual. In this system, there is a login feature for the admin. The admin can use the features of it which include generating, viewing the electricity bill of customers, and also deleting the bill. Thus, this mini-project contains limited features, but the essential one.
 
 *Login ID for admin:*
+
 Username: admin
+
 Password: 12345
 
 # About the Project
